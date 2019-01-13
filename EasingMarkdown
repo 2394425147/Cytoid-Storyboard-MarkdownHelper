@@ -1,0 +1,92 @@
+    "storyboardeasingdatabase": [
+        {
+            "easing": "Linear"
+        },
+        {
+            "easing": "EaseInSine"
+        },
+        {
+            "easing": "EaseOutSine"
+        },
+        {
+            "easing": "EaseInOutSine"
+        },
+        {
+            "easing": "EaseInQuad"
+        },
+        {
+            "easing": "EaseOutQuad"
+        },
+        {
+            "easing": "EaseInOutQuad"
+        },
+        {
+            "easing": "EaseInCubic"
+        },
+        {
+            "easing": "EaseOutCubic"
+        },
+        {
+            "easing": "EaseInOutSine"
+        },
+        {
+            "easing": "EaseInQuart"
+        },
+        {
+            "easing": "EaseOutQuart"
+        },
+        {
+            "easing": "EaseInOutQuart"
+        },
+        {
+            "easing": "EaseInQuint"
+        },
+        {
+            "easing": "EaseOutQuint"
+        },
+        {
+            "easing": "EaseInExpo"
+        },
+        {
+            "easing": "EaseOutExpo"
+        },
+        {
+            "easing": "EaseInOutExpo"
+        },
+        {
+            "easing": "EaseInCirc"
+        },
+        {
+            "easing": "EaseOutCirc"
+        },
+        {
+            "easing": "EaseInOutCirc"
+        },
+        {
+            "easing": "EaseInBack"
+        },
+        {
+            "easing": "EaseOutBack"
+        },
+        {
+            "easing": "EaseInOutBack"
+        },
+        {
+            "easing": "EaseInElastic"
+        },
+        {
+            "easing": "EaseOutElastic"
+        },
+        {
+            "easing": "EaseInOutElastic"
+        },
+        {
+            "easing": "EaseInBounce"
+        },
+        {
+            "easing": "EaseOutBounce"
+        },
+        {
+            "easing": "EaseInOutBounce"
+        }
+    ],
